@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I'm a computer science graduate with a strong coding background and a passion for creative problem-solving, and I'm eager to launch a career as a software engineer :)
 - 🏫 Computer Science graduate from SFU
 - 🎧 Old school music is my go to for relaxing
-- 🏀 Ball is life
+- 🏀 🏋🏻‍♀️ I like to play basketall and work out
 - my [Portfolio website](https://brianhsudocode.netlify.app/)!
