@@ -20,3 +20,10 @@ I'm a computer science graduate with a strong coding background and a passion fo
 - 🎧 Old school music is my go to for relaxing
 - 🏀 🏋🏻‍♀️ I like to play basketall and work out
 - my [Portfolio website](https://brianhsudocode.netlify.app/)!
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhsu305&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhsu305&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
