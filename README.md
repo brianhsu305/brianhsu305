@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a recent SFU Computer Science graduate with the background in sales and computer hardware. Experinced in front end development the most, such as JS, HTML, and CSS. Commited to challenge myself everyday to improve my skills!
+I am a recent SFU Computer Science graduate with the background in sales and computer hardware. Experienced in front end development the most, such as JS, HTML, and CSS. Committed to challenge myself everyday to improve my skills.
 - 🏫 SFU Computer Science Alumni
 - 😄 love to listen to music, solve puzzles and play basketball in my free time
 - 🙋‍♂️ my [Portfolio website](https://brianhsudocode.netlify.app/)!
