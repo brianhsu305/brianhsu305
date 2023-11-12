@@ -25,6 +25,8 @@ I am a recent SFU Computer Science graduate with the background in sales and com
 ![Microsoft SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F24E1E?style=for-the-badge&logo=Java&logoColor=white)
+
 
 
 ## GitHub Stats 📈
